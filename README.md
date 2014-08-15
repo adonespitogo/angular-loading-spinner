@@ -30,6 +30,10 @@ Insert [angular-spinner](https://github.com/urish/angular-spinner)'s `us-spinner
 
 This directive also exposes `spinnerActive` model to the `$rootScope`. This can be useful if you want to hide some elements while your application is fetching data from the backend.
 
+Example
+------------
+See [plunker demo](http://plnkr.co/edit/PUjrEIt0YLTwr0rUInv8?p=preview)
+
 Read [angular-spinner docs](https://github.com/urish/angular-spinner) on how to customize the spinner and refer to [spin.js docs](http://fgnass.github.io/spin.js/) for more configuration options.
 
 ## License
