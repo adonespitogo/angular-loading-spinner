@@ -26,7 +26,7 @@ Require `ngLoadingSpinner` as dependency in your main module.
   angular.module('myapp', ['ngLoadingSpinner']);
 ```
 
-Insert [angular-spinner](https://github.com/urish/angular-spinner)'s `us-spinner` direcitive anywhere in your html file where you want the loading indicator to appear during ajax request. This directive (`us-spinner`) will be shown when there is pending ajax request and will be hidden upon completion of all ajax requests.
+Insert [angular-spinner](https://github.com/urish/angular-spinner)'s `us-spinner` directive anywhere in your html file. This directive - `us-spinner`, will be shown when there is pending ajax request and will be hidden upon completion of all ajax requests.
 
 Read [angular-spinner docs](https://github.com/urish/angular-spinner) on how to customize the spinner and refer to [spin.js docs](http://fgnass.github.io/spin.js/) for more configuration options.
 
