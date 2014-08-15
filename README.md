@@ -1,7 +1,7 @@
 angular-loading-spinner
 =======================
 
-Angular directive ajax loading indicator. This directive is using [urish angular-spinner](https://github.com/urish/angular-spinner).
+Angular directive ajax loading indicator. This directive uses [urish angular-spinner](https://github.com/urish/angular-spinner) as the loading indicator.
 
 Usage
 --------------------------------
