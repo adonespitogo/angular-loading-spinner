@@ -28,7 +28,7 @@ Require `ngLoadingSpinner` as dependency in your main module.
 
 Insert [angular-spinner](https://github.com/urish/angular-spinner)'s `us-spinner` directive anywhere in your html file to be shown when there is pending ajax request and will be hidden upon completion of all ajax requests.
 
-This directive also exposes `spinnerActive` model to the `$rootScope`. It can be useful if you want to hide some elements while your application is fetching data from the backend.
+This directive also exposes `spinnerActive` model to the `$rootScope` with a boolean value. It can be useful if you want to hide some elements while your application is fetching data from the backend.
 
 Read [angular-spinner docs](https://github.com/urish/angular-spinner) on how to customize the spinner and refer to [spin.js docs](http://fgnass.github.io/spin.js/) for more configuration options.
 
