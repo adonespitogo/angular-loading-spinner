@@ -2,7 +2,6 @@
     angular.module('ngLoadingSpinner', ['angularSpinner'])
     .directive('usSpinner',   ['$http', '$rootScope' ,function ($http, $rootScope){
         return {
-            restrict: 'A',
             link: function (scope, elm, attrs)
             {
                 $rootScope.spinnerActive = false;
