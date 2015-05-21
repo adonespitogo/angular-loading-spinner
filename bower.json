@@ -1,12 +1,12 @@
 {
   "name": "angular-loading-spinner",
   "main": "angular-loading-spinner.js",
-  "version": "v0.0.1",
+  "version": "v0.0.2",
   "homepage": "https://github.com/adonespitogo/angular-loading-spinner",
   "authors": [
     "Adones Pitogo <pitogo.adones@gmail.com>"
   ],
-  "description": "Angular directive ajax loading indicator.",
+  "description": "AngularJS directive ajax loading indicator.",
   "moduleType": [
     "globals"
   ],
