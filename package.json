@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/adonespitogo/angular-loading-spinner/issues"
   },
-  "homepage": "https://github.com/adonespitogo/angular-loading-spinner"
+  "homepage": "https://github.com/adonespitogo/angular-loading-spinner",
+  "dependencies": {
+    "angular-spinner": "~0.6.1"
+  }
+
 }

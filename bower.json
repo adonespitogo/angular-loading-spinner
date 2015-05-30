@@ -27,5 +27,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "angular-spinner": "~0.6.1"
+  }
 }
