@@ -4,6 +4,7 @@
         return {
             link: function (scope, elm, attrs)
             {
+                if(attrs.$attr.usSpinnerStandalone) return;
                 $rootScope.spinnerActive = false;
                 scope.isLoading = function () {
                     return $http.pendingRequests.length > 0;

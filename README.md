@@ -34,6 +34,8 @@ Insert [angular-spinner](https://github.com/urish/angular-spinner)'s `us-spinner
 
 This directive also exposes `spinnerActive` model to the `$rootScope` with a boolean value. It can be useful if you want to hide some elements while your application is fetching data from the backend.
 
+You can still use `us-spinner` directly un-affected by ajax request using the `us-spinner-standalone` directive.
+
 Read [angular-spinner docs](https://github.com/urish/angular-spinner) on how to customize the spinner and refer to [spin.js docs](http://fgnass.github.io/spin.js/) for more configuration options.
 
 ## License
