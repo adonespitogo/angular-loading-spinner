@@ -1,7 +1,7 @@
 {
   "name": "angular-loading-spinner",
   "main": "angular-loading-spinner.js",
-  "version": "v0.0.3",
+  "version": "v0.0.4",
   "homepage": "https://github.com/adonespitogo/angular-loading-spinner",
   "authors": [
     "Adones Pitogo <pitogo.adones@gmail.com>"
@@ -29,6 +29,6 @@
     "tests"
   ],
   "dependencies": {
-    "angular-spinner": "~0.6.1"
+    "angular-spinner": "~0.8.1"
   }
 }
