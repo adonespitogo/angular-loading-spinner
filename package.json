@@ -1,6 +1,6 @@
 {
   "name": "angular-loading-spinner",
-  "version": "v0.0.3",
+  "version": "v0.0.4",
   "description": "AngularJS directive ajax loading indicator.",
   "main": "angular-loading-spinner.js",
   "scripts": {
@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/adonespitogo/angular-loading-spinner",
   "dependencies": {
-    "angular-spinner": "~0.6.1"
+    "angular-spinner": "~0.8.1"
   }
 
 }
